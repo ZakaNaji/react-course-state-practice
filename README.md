@@ -1,8 +1,7 @@
 # React Tip Calculator
 
-This React Tip Calculator is a simple web application created using Vite and React. It helps you calculate tips on a restaurant bill by allowing you to input the bill amount and your satisfaction rating to determine the tip amount you should leave.
+This React Tip Calculator is a simple web application created using Vite and React. It serves as a practice project for state management in React, helping you calculate tips on a restaurant bill. You can input the bill amount and your satisfaction rating to determine the tip amount you should leave.
 
-![React Tip Calculator](tip-calculator-screenshot.png)
 
 ## Table of Contents
 
@@ -26,15 +25,21 @@ To run this app on your local machine, follow these steps:
    git clone https://github.com/ZakaNaji/react-course-state-practice-tip-calculator.git
    
 2. Navigate to the project directory:
-  cd react-course-state-practice-tip-calculator
+
+   ```bash
+     cd react-course-state-practice-tip-calculator
 
 3. Install the project dependencies using npm:
-  npm install
 
-4. Start the development server:
-  npm run dev
+   ```bash
+   npm install
 
-5. Open your web browser and visit http://localhost:3000 to use the app.
+5. Start the development server:
+
+   ```bash
+   npm run dev
+
+7. Open your web browser and visit http://localhost:3000 to use the app.
 
 
 ## How to Use
